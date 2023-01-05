@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Tillana:wght@400;500;700&display=swap');
+
+.l-bg-light-brown {
+    background-color: #FFEBDD;
+}
+
+.l-bg-brown {
+    background-color: #a6622e;
+}
+
+.text-tillana {
+    font-family: 'Tillana', cursive;
+}
+
+/* .l-left {
+    flex: 1;
+    align-items: center;
+    display: flex;
+    gap: 2;
+}
+
+.l-right {
+    flex: 1;
+    align-items: center;
+    display: flex;
+    gap: 2;
+} */
